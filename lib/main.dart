@@ -270,6 +270,9 @@ class _MyAppState extends State<MyApp> {
                 },
               ),
             ),
+            const SizedBox(
+              height: 24,
+            ),
           ],
         ),
       ),
